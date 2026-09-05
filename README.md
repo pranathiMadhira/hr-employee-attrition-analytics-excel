@@ -96,10 +96,24 @@ The Excel dashboard summarizes key HR KPIs and attrition patterns across departm
 - Data Storytelling
 - HR Analytics
 
-## Future Improvements
-
-- SQL-based analysis
-- Power BI dashboard
-- DAX measures
-- Statistical analysis
-- Predictive attrition modeling
+hr-employee-attrition-analytics-excel/
+│
+├── README.md
+│
+├── Excel/
+│   └── HR_Employee_Attrition_Analytics.xlsx
+│
+├── Dashboard/
+│   └── HR_Dashboard.png
+│
+├── Documentation/
+│   ├── Project_Insights.pdf
+│   └── Project_Report.pdf
+│
+├── Screenshots/
+│   ├── dashboard.png
+│   ├── data_cleaning.png
+│   └── analysis.png
+│
+└── Data/
+    └── README.md
