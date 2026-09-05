@@ -96,7 +96,7 @@ The Excel dashboard summarizes key HR KPIs and attrition patterns across departm
 - Data Storytelling
 - HR Analytics
 
-hr-employee-attrition-analytics-excel/
+## hr-employee-attrition-analytics-excel/
 │
 ├── README.md
 │
